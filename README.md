@@ -1,3 +1,5 @@
+The updated reposition is at https://github.com/TheDiamondOG/pastelib
+
 Pastelib
 By TheDiamondOG
 Source Code: https://github.com/thediamondog/pastelib

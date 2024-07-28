@@ -1,7 +1,7 @@
-The updated reposition is at https://github.com/TheDiamondOG/pastelib
+The updated reposition is at https://github.com/TheDiamondOG/pastelib\
 
-Pastelib
-By TheDiamondOG
+#Pastelib
+By TheDiamondOG\
 Source Code: https://github.com/thediamondog/pastelib
 ______________________________________________________
 Functions
